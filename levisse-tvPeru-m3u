@@ -1,0 +1,104 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4tVVnBT.png" group-title=", | AMERICA TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99162
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2zBq7H.jpg" group-title=", | LATINA TV-1
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99179
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2zBq7H.jpg" group-title=", | LATINA TV-2
+https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oeVggqH.jpg" group-title=", | ATV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/101393
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEdr5Cb.jpg" group-title=", | TVPERÚ
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99175
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7txOg0.jpg" group-title=", | IPE
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99167
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rTW9xQ.png" group-title=", | WILLAX
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/108978
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wS8dOr.jpg" group-title=", | GOL PERÚ 
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/108979
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/soNEW01.png" group-title=", | MOVISTAR DEPORTES
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99181
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TO4jH7.jpg" group-title=", | BESTCABLE DEPORTE
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117083
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMNFxjr.jpg" group-title=", | MÁGICO PERÚ
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99180
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzxjgDY.jpg" group-title=", | CANAL N
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99169
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uYKxb6S.png" group-title=", | PANAMERICANA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99172
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u3Yj2ew.jpg" group-title=", | RPP NOTICIAS
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/99182
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lac5JND.png" group-title=", | HECHICERA TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/101193
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRcx7Mf.jpg" group-title=", | VICION TV NOTICIAS
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/101196
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PvNrD17.jpg" group-title=", | ASIRI TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/116851
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbuSYuS.png" group-title=", | GENIOS TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/11708
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zMfvRQ.jpg" group-title=", | UCI NOTICIAS
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117086
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPikR60.png" group-title=", | ANTARES TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117085
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JFLX84.png" group-title=", | COSMOS TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117084
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHG3hRd.jpg" group-title=", | TV PERUANISIMA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117080
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7oLHj1r.jpg" group-title=", | TURBOMIX TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117079
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KrhWRr.jpg" group-title=", | INKAVISION
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117077
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oD9pn57.jpg" group-title=", | BHTV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/117076
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zyf3cAG.jpg" group-title=", | KARIBEÑA TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/11707
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tx1xz65.png" group-title=", | JN19 
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/101201
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DgFP8hx.jpg" group-title=", | TOP LATINO
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/101197
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TC326UD.png" group-title=", | MIX 24/7
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/101200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJAlFaU.jpg" group-title=", | VISION TV MÚSICA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/101195
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j3AYOrH.jpg" group-title=", | DIRECT TV SPORT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21579.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nVJ0sce.jpg" group-title=", | M. PLUS TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21585.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SwDj9rs.png" group-title=", | CLARO SPORTS
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/995
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiIxh97.png" group-title=", | CONGRESO TV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/11
